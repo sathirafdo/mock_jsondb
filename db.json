@@ -1,11 +1,57 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "notifications": [
+      {
+        "sender": "card kapana akka",
+        "notification": "lamaya panthi aave na eeye"
+      },
+      { "sender": "Learnpoint system", "notification": "class cut kala depark" },
+      {
+        "sender": "maths sir",
+        "notification": "panthiya magin daala giya"
+      },
+      { "sender": "Learnpoint system", "notification": "fees gevve na" }
+    ],
+  "suggestions": [
+      {
+        "type": "Module",
+        "name": "Physics",
+        "points": [
+          "5 star service",
+          "comprehensive videos",
+          "innovative rwsing system"
+        ],
+        "link": "/home"
+      },
+      {
+        "type": "Tutor",
+        "name": "Barry Allen",
+        "points": [
+          "30 years ecperince",
+          "Over 200 students",
+          "Flexible lecture schedule"
+        ],
+        "link": "/home"
+      },
+
+      {
+        "type": "Module",
+        "name": "Physics",
+        "points": [
+          "5 star service",
+          "comprehensive videos",
+          "innovative rwsing system"
+        ],
+        "link": "/home"
+      },
+      {
+        "type": "Tutor",
+        "name": "Barry Allen",
+        "points": [
+          "30 years ecperince",
+          "Over 200 students",
+          "Flexible lecture schedule"
+        ],
+        "link": "/home"
+      }
+    ]
 }
