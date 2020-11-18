@@ -86,12 +86,13 @@
         "type": "text",
         "text": "Scrolls to the specified offsets. This is a normalized version of the browsers native scrollTo method, since browsers are not consistent about what scrollLeft means in RTL. For this method left and right always refer to the left and right side of the scrolling container irrespective of the layout direction. dsfgsdfgsf start and end refer to left and right in an LTR context and vice-versa in an RTL context."
       }
-    ],
-    "ExampleAccessLinks": [
-      "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/notifications",
-      "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/notifications/1",
-      "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/nExampleAccessLinks",
-      "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/suggestions"
     ]
-  }
+  },
+
+  "ExampleAccessLinks": [
+    "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/notifications",
+    "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/notifications/1",
+    "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/nExampleAccessLinks",
+    "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/suggestions"
+  ]
 }
