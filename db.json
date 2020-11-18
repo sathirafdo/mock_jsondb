@@ -84,7 +84,7 @@
       {
         "index": "1.2.5",
         "type": "text",
-        "text": "Scrolls to the specified offsets. This is a normalized version of the browsers native scrollTo method, since browsers are not consistent about what scrollLeft means in RTL. For this method left and right always refer to the left and right side of the scrolling container irrespective of the layout direction. start and end refer to left and right in an LTR context and vice-versa in an RTL context."
+        "text": "Scrolls to the specified offsets. This is a normalized version of the browsers native scrollTo method, since browsers are not consistent about what scrollLeft means in RTL. For this method left and right always refer to the left and right side of the scrolling container irrespective of the layout direction. dsfgsdfgsf start and end refer to left and right in an LTR context and vice-versa in an RTL context."
       }
     ],
     "ExampleAccessLinks": [
