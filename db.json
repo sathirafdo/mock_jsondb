@@ -1,57 +1,97 @@
 {
   "notifications": [
-      {
-        "sender": "card kapana akka",
-        "notification": "lamaya panthi aave na eeye"
-      },
-      { "sender": "Learnpoint system", "notification": "class cut kala depark" },
-      {
-        "sender": "maths sir",
-        "notification": "panthiya magin daala giya"
-      },
-      { "sender": "Learnpoint system", "notification": "fees gevve na" }
-    ],
+    {
+      "sender": "card kapana akka",
+      "notification": "lamaya panthi aave na eeye"
+    },
+    { "sender": "Learnpoint system", "notification": "class cut kala depark" },
+    {
+      "sender": "maths sir",
+      "notification": "panthiya magin daala giya"
+    },
+    { "sender": "Learnpoint system", "notification": "fees gevve na" }
+  ],
   "suggestions": [
-      {
-        "type": "Module",
-        "name": "Physics",
-        "points": [
-          "5 star service",
-          "comprehensive videos",
-          "innovative rwsing system"
-        ],
-        "link": "/home"
-      },
-      {
-        "type": "Tutor",
-        "name": "Barry Allen",
-        "points": [
-          "30 years ecperince",
-          "Over 200 students",
-          "Flexible lecture schedule"
-        ],
-        "link": "/home"
-      },
+    {
+      "type": "Module",
+      "name": "Physics",
+      "points": [
+        "5 star service",
+        "comprehensive videos",
+        "innovative rwsing system"
+      ],
+      "link": "/home"
+    },
+    {
+      "type": "Tutor",
+      "name": "Barry Allen",
+      "points": [
+        "30 years ecperince",
+        "Over 200 students",
+        "Flexible lecture schedule"
+      ],
+      "link": "/home"
+    },
 
+    {
+      "type": "Module",
+      "name": "Physics",
+      "points": [
+        "5 star service",
+        "comprehensive videos",
+        "innovative rwsing system"
+      ],
+      "link": "/home"
+    },
+    {
+      "type": "Tutor",
+      "name": "Barry Allen",
+      "points": [
+        "30 years ecperince",
+        "Over 200 students",
+        "Flexible lecture schedule"
+      ],
+      "link": "/home"
+    }
+  ],
+  "subtopicContent": {
+    "name": "Reflection ",
+    "index": "1.2",
+    "content": [
       {
-        "type": "Module",
-        "name": "Physics",
-        "points": [
-          "5 star service",
-          "comprehensive videos",
-          "innovative rwsing system"
-        ],
-        "link": "/home"
+        "index": "1.2.1",
+        "type": "text",
+        "text": "Scrolls to the specified offsets. This is a normalized version of the browsers native scrollTo method since browsers are not consistent about what scrollLeft means in RTL. For this method left and right always refer to the left and right side of the scrolling container irrespective of the layout direction. start and end refer  to left and right in an LTR context and vice-versa in an RTL context."
       },
       {
-        "type": "Tutor",
-        "name": "Barry Allen",
-        "points": [
-          "30 years ecperince",
-          "Over 200 students",
-          "Flexible lecture schedule"
-        ],
-        "link": "/home"
+        "index": "1.2.2",
+        "type": "img",
+        "url": "https://media.cheggcdn.com/media/68c/68c45344-7ba3-49f9-a05d-9a58d6a5f1e2/image.png",
+        "caption": "consistent about what scrollLeft means in RTL. For this method left and right always refer to the left and right side of the scrolling container irrespective of the layout direction. start and end refer to left and right in an LTR context and vice-versa in an RTL context."
+      },
+      {
+        "index": "1.2.3",
+        "type": "video",
+        "url": "https://media.vimejs.com/720p.mp4",
+        "caption": "Scrolls to the specified offsets. This is a normalized version of the browsers native scrollTo method,consistent about what scrollLeft means in RTL."
+      },
+      {
+        "index": "1.2.4",
+        "type": "equation",
+        "text": "2*x^0.5*sin(x)",
+        "caption": "Scrolls to the specified offsets. This is a normalized version of the browsers native scrollTo method,since browsers are not consistent about what scrollLeft means in RTL."
+      },
+      {
+        "index": "1.2.5",
+        "type": "text",
+        "text": "Scrolls to the specified offsets. This is a normalized version of the browsers native scrollTo method, since browsers are not consistent about what scrollLeft means in RTL. For this method left and right always refer to the left and right side of the scrolling container irrespective of the layout direction. start and end refer to left and right in an LTR context and vice-versa in an RTL context."
       }
+    ],
+    "ExampleAccessLinks": [
+      "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/notifications",
+      "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/notifications/1",
+      "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/nExampleAccessLinks",
+      "http://my-json-server.typicode.com/sathirafdo/mock_jsondb/suggestions"
     ]
+  }
 }
