@@ -66,7 +66,7 @@
       {
         "index": "1.2.2",
         "type": "img",
-        "url": "https://media.cheggcdn.com/media/68c/68c45344-7ba3-49f9-a05d-9a58d6a5f1e2/image.png",
+        "url": "https://picsum.photos/300",
         "caption": "consistent about what scrollLeft means in RTL. For this method left and right always refer to the left and right side of the scrolling container irrespective of the layout direction. start and end refer to left and right in an LTR context and vice-versa in an RTL context."
       },
       {
